@@ -1,2 +1,1 @@
-# wor-king
-new repository
+consol.log("hello evryone");
